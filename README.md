@@ -12,7 +12,6 @@ Webex is an all-in-one solution designed for video meetings, virtual collaborati
 
 Users can log in using the **Webex App**, available on both desktop and mobile devices. The centralized interface provides access to meetings, messaging, calls, and whiteboarding tools.
 
-* Individual preferences and account settings are adjustable at [settings.webex.com](*).
 * From this portal, users can manage voicemails, configure their devices, and activate calling capabilities.
 
 ### Hosting and Joining Meetings
