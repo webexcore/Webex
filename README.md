@@ -129,7 +129,3 @@ More details can be found in the [Webex Security Overview](*).
 ### Is Webex available for mobile devices?
 
 * Absolutely — Webex works on both iOS and Android systems. Download the app from the [App Store](*) or [Google Play Store](*).
-
-### Where can I find comprehensive user guides?
-
-* Access tutorials and documentation at the [Webex User Guides](*) section.
